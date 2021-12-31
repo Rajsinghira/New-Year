@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+					<meta charset="UTF-8">
+					<title>SCHOOL HOMEWORK</title>
+</head>
+<body>
+					<!-- Question 2= Write the HTML code to linking web page and used the attribute link, alink and vlink. -->
+					<a href="https://ibb.co/McyfmZf"> GEOMETRY IMAGE
+<body link=green alink=blue vlink=#b0ff95></body>
+</a>
+
+
+<a href="https://toshare.io/Ydr/Q._no._1.txt" target="_blank" title="Download from Upload Files & Share For Free">Download Q. no. 1.txt from Upload Files & Share For Free</a><br/>
+<a href="https://toshare.io/Ydq/Q._no._2.txt" target="_blank" title="Download from Upload Files & Share For Free">Download Q. no. 2.txt from Upload Files & Share For Free</a><br/>
+
+
+
+</body>
+</html>
